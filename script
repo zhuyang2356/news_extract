@@ -1,0 +1,1 @@
+python main.py --video_dir "toutiao/今日头条/video_1" --static_dir "toutiao/今日头条/static_1"
